@@ -1,0 +1,170 @@
+#contener{
+    width: 400px;
+    height: 600px;
+    position: relative;
+    margin: 0px auto 0px auto;
+    border-radius: 7px 7px 7px 7px;
+    background-color: white;
+}
+body{
+    background-color: black;
+}
+#entete{
+    height: 100px;
+    width: 400px;
+    border-radius: 6px 6px 6px 0px;
+    background-color: plum;
+}
+#photo{
+    height: 90px;
+    width: 70px;
+    margin-left: 20px;
+    border-radius: 0px 0px 5px 5px;
+    position: absolute;
+}
+#photos{
+    margin: 5px;
+}
+#corp{
+    height: 420px;
+    width:400px ;
+    background-color: white;
+
+
+}
+#gauche{
+    height: 420px;
+    width: 140px;
+
+    float: left;
+    background-color: lavenderblush;
+}
+#droite{
+    width: 260px;
+    height: 420px;
+    float: right;
+}
+#info{
+    margin-left: 120px;
+    height: 80px;
+    width: 180px;
+    padding-top: 10px;
+
+
+
+}
+.gen{
+    width: 120px;
+    font-size: 0.7pc;
+    display: block;
+    margin-top: 0px;
+    color: black;
+    position: relative;
+}
+
+
+.pasgen{
+    width: 45px;
+    font-size: 0.7pc;
+    display: block;
+    margin-top: 0px;
+    color: black;
+    position: relative;
+    margin-left: 80px;
+
+}
+#pied{
+    height: 80px;
+    width: 400px;
+    background-color: #642e44;
+    border-radius: 0px 12px 6px 6px;
+    border: low black inset;
+    background-color: plum;
+
+
+}
+
+.text{
+    text-align: center;
+    margin-top: 0px;
+    color: black;
+text-decoration: underline;
+}
+.logo{
+    margin-left: 75px;
+    right: 70px;
+    left: 70px;
+}
+#tel{
+    width: 75px;
+    height: 15px;
+    margin-left:5px;
+    margin-top: 10px;
+
+
+
+}
+.num{
+    font-style: normal;
+    font-size: 9.5px;
+    color: salmon;
+}
+#contact{
+    margin-left: 7px;
+}
+.cont{
+    font-style:normal;
+
+
+}
+#adresse{
+    margin-left: 5px;
+}
+#mail{
+    margin-left: 5px;
+}
+#competence{
+    margin-left: 6px;
+}
+hr{
+    color: black;
+}
+
+#Langue{
+    margin-left: 6px;
+}
+#profil{
+    margin-right: 50px;
+
+}
+.titre{
+    margin-left: 80px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: black;
+
+}
+.par{
+    font-style: normal;
+    font-size: 9.5px;
+    color: black;
+    margin-left: 5px;
+
+}
+#diplome{
+
+    margin-right: 50px;
+
+
+}
+.exp{
+    margin-left: 25px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: black;
+
+
+}
+#exp{
+    margin-right: 50px;
+}
